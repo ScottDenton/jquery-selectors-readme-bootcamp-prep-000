@@ -8,5 +8,8 @@ function paragraphSelector(){
   
 function ninjaBabySelector (){
   return $('#baby-ninja')
+  }
   
+  function firstListItem(){
+    return $('#pic-list ul:first-child')
   }
